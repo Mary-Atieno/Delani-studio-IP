@@ -38,7 +38,7 @@ Incase of any issues or have questions,ideas or comments please you are free to 
 
 ###### licence
 
-MIT License
+# MIT License
 
 Copyright (c) 2022 Mary Atieno
 
