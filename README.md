@@ -36,7 +36,7 @@ you also need access to the internet.
 
 Incase of any issues or have questions,ideas or comments please you are free to contact me or make a contribution to the code.{Mary.atieno@student.moringaschool.com.}
 
-####### licence
+###### licence
 
 # MIT License
 
