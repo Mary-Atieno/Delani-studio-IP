@@ -5,7 +5,7 @@
 ### Table of content
 
 +[description](#description)
-+[installation requirements](#installation)
+  +[installation requirements](#installation)
 <!-- +[technology used](#technology used) -->
 +[licence](#licence)
 
@@ -38,7 +38,7 @@ Incase of any issues or have questions,ideas or comments please you are free to 
 
 ###### licence
 
-# MIT License
+MIT License
 
 Copyright (c) 2022 Mary Atieno
 
