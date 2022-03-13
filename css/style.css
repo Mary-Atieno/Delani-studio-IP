@@ -1,0 +1,174 @@
+#first{
+    background-image: url('/assets/backgrounds/h_img.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    
+
+}
+body{
+    height: 100vh;
+    min-height: 100vh;
+}
+#services{
+    background-image: url('/assets/backgrounds/s_image.jpg');
+     background-repeat: no-repeat;
+    background-size: cover;
+    
+    background-position: center;
+    
+}
+
+ .panels li{
+    width: 20%;
+    
+    position: relative;
+    margin: 0;
+    display: block;
+    float: left;
+
+}
+.panels li div{
+    width: 100%;
+     color: white; 
+     padding: 50% 0;
+    text-align: center;
+    cursor: pointer;
+    
+    
+}
+.panels{
+    margin: 0 auto;
+    width: 80%;
+    clear: both;
+}
+.top{ 
+     position: absolute; 
+    }
+
+    .bot p{
+        
+    
+        border: 2px solid white;
+        margin: 0 auto;
+        font-size: 1rem;
+        color: white;
+
+
+    }
+
+   .panels li{
+        margin: 1.5vw;
+    }
+    #contacta{
+        clear: both;
+        width: 80%;
+        background-image: url('/assets/backgrounds/c_image.jpg');
+        background-position: center;
+    }
+    #contacta input,#contacta textarea{
+        background-color: transparent;
+        border: 1px solid white;
+    }
+
+     #contacta input::placeholder{
+        color: white;
+    }
+
+    footer a{
+        display: inline-block;
+        margin: 1vw;
+        
+        
+    }
+    footer a img{
+        width: 2vw;
+    }
+
+    #proc img{
+        width: 25%;
+    }
+
+    .panels li div{
+        background-size:cover ;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+    #proc div p.card-text{
+        display: none;
+    }
+
+    .fall .card{
+        width: 25%;
+        
+        text-align: center;
+    }
+
+    
+
+    .red p{
+        color: red;
+        border: 2px solid red;
+        opacity: 1;
+        
+    }
+    
+
+
+
+    /* media queries */
+
+    @media screen and (max-width:1150px){
+
+        #proc img{
+            width: 50%;
+            margin: 0 auto;
+        }
+        .panels{
+            width: 100%;
+        }
+        .panels li{
+            width: 40%;
+            margin: 0 auto;
+            margin: 3vw;
+        }
+
+
+    }
+
+    @media screen and (max-width:1000px){
+        .fall{
+            flex-direction: column;
+            justify-content: space-between;
+            width: 100%;
+            text-align: center;
+            margin: 0 auto;
+        }
+
+        .fall .card{
+            width: 100%;
+            margin: 0 auto;
+            text-align: center;
+        }
+
+        #now{
+flex-direction: column;
+width: 100%;
+
+        }
+
+        #now input{
+            width: 100%;
+            margin: 0 auto;
+            margin: 0;
+        }
+
+    }
+
+    @media screen and (max-width:478px){
+
+        .panels li{
+            width: 80%;
+            margin: 0 auto;
+            margin: 3vw;
+        }
+    }
