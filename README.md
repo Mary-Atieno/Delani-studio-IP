@@ -26,7 +26,7 @@ you also need access to the internet.
 * HTML.
 * CSS.
 * JavaScript.
-*bootstrap.
+* bootsrap.
 * jQuery.
 
 ##### bugs
