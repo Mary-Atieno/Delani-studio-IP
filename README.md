@@ -5,8 +5,11 @@
 ### Table of content
 
 [description](#description)
+
 [installation requirements](#installation)
+
 [technologyUsed](#technologyUsed)
+
 [licence](#licence)
 
 ## Description
@@ -20,10 +23,11 @@ you also need access to the internet.
 
 #### Technology used
 
-* HTML-has been used to build the core part of the project.
-* CSS-has been used for styling purposes.
-* JavaScript-has been used in inserting the script into the page.
-* jQuery-has been used to add sliding effects.
+* HTML.
+* CSS.
+* JavaScript.
+*bootstrap.
+* jQuery.
 
 ##### bugs
 
