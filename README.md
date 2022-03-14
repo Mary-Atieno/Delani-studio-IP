@@ -4,10 +4,10 @@
 
 ### Table of content
 
-+[description](#description)
-  +[installation requirements](#installation)
-<!-- +[technology used](#technology used) -->
-+[licence](#licence)
+[description](#description)
+[installation requirements](#installation)
+[technologyUsed](#technologyUsed)
+[licence](#licence)
 
 ## Description
 
