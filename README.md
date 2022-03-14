@@ -13,30 +13,35 @@
 
 This project is about creating a landing page of a certein studio known as Delani studio.
 
-## installation
-
-### requirements
+### installation requirements
 
 you can either use a phone,computer,tablet or an Ipad.
 you also need access to the internet.
 
 #### Technology used
 
-* HTML
-* CSS
-* JavaScript
-* jQuery
+* HTML-has been used to build the core part of the project.
+* CSS-has been used for styling purposes.
+* JavaScript-has been used in inserting the script into the page.
+* jQuery-has been used to add sliding effects.
 
-##### Reeference
+##### bugs
 
-* Materialise CSS
-* google and youtube
+incase of any bugs you can gladly help.
 
 ###### support and contact details
 
 Incase of any issues or have questions,ideas or comments please you are free to contact me or make a contribution to the code.{Mary.atieno@student.moringaschool.com.}
 
-###### licence
+###### live link
+
+<https://mary-atieno.github.io/Delani-studio-IP/>
+
+###### authors info
+
+Email:Mary.atieno@student.moringaschool.com
+
+### licence
 
 MIT License
 
